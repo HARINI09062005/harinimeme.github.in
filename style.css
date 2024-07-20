@@ -1,0 +1,16 @@
+*{
+   background-color: black;
+}
+div{
+    text-align: center;
+    padding-top: 200;
+}
+.error{
+    font-size: 80;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 0;
+    color: rgb(72, 70, 70);
+}
+
+
+
